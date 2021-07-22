@@ -9,6 +9,10 @@
 - ⚡ Fun facts: - I ❤️‍🔥 : motorcycles 🏍️ / music 🎵 / digital art 🎨
 
 
+<br />
+<br />
+
+
 ### Connect with me:
 
 [<img align="left" alt="GabrielIvanG | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
