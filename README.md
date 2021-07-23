@@ -36,7 +36,7 @@
 
 <img align="left" alt="XD" width="26px" src="https://iconape.com/wp-content/png_logo_vector/adobe-xd-2020.png" />
 
-<img align="left" alt="Figma" width="18px" src="https://iconape.com/wp-content/files/gm/370871/svg/370871.svg" />
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluent/50/000000/figma.png" />
 
 <br />
 <br />
